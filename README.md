@@ -1,3 +1,2 @@
 # 5208638_TusharGarg
-![SDLC Screenshot] (/SDLC/Screenshot.png)
-
+![SDLC Screenshot](/SDLC/Screenshot.png)
